@@ -40,3 +40,8 @@ Adım 8 ) 4 sayısı 7den küçük olduğu için sola bakıyoruz.Solumuzda 5 say
 Adım 9 ) 2 sayısı 7den küçük olduğu için sola bakıyoruz.5den de küçük olduğu için 1 sayısına bakıyoruz.1den büyük olduğu için 1in sağına bakıyoruz.1in sağında 3 var.3den küçük olduğu için 3ün soluna eklenir.
 ```
 
+[Ödev Linki](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)
+
+[Patika.Dev Profile ](https://app.patika.dev/ecb)
+
+
